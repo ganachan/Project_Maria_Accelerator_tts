@@ -20,7 +20,7 @@ Welcome to the **Maria AI Avatar Repository**—your go-to guide for creating an
 ### **1️⃣ Setup Your Environment**
 First, clone this repository:
 ```bash
-git clone https://github.com/YOUR-ORG/Maria-AI-Avatar.git
+git clone https://github.com/ganachan/Project_Maria_Accelerator_tts.git
 cd Maria-AI-Avatar
 
 Install the required dependencies:
