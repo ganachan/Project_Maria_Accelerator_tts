@@ -11,7 +11,7 @@ Welcome to the **Maria AI Avatar Repository**—your go-to guide for creating an
 - **Personalized Text-to-Speech** – Generate speech with **text-based inputs**, tailored to your business.
 - **Seamless Video Generation** – Automatically synthesize AI-driven videos with real-time lip-syncing.
 - **Azure AI Integration** – Leverage **Azure Speech Services**, **Blob Storage**, and **Custom Neural Voices (CNV)**.
-- **Multi-Agent AI Collaboration** – Integrate with other AI assistants for **RAG (Retrieval-Augmented Generation)** workflows.
+- **Multi-Agent AI Collaboration** – Integrate with other AI assistants for **Dynamic engaging customers** workflows.
 
 ---
 
