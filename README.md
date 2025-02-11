@@ -21,7 +21,7 @@ Welcome to the **Maria AI Avatar Repository**—your go-to guide for creating an
 First, clone this repository:
 ```bash
 git clone https://github.com/ganachan/Project_Maria_Accelerator_tts.git
-cd Maria-AI-Avatar
+cd Project_Maria_Accelerator_tts
 
 Install the required dependencies:
 pip install -r requirements.txt
