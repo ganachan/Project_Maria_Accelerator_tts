@@ -15,10 +15,10 @@ Welcome to the **Maria AI Avatar Repository**—your go-to guide for creating an
 
 ---
 
-**App1.py - General video synthesis**
+**app1_general.py - General video synthesis**
 
 
-**App2.py - Integrated with Multi-agent archiecture to fetch information dynamically about the customers and creates/summarizes content with the help of manager(gatekeeper) agent**
+**app2_multi_agent.py - Integrated with Multi-agent archiecture to fetch information dynamically about the customers and creates/summarizes content with the help of manager(gatekeeper) agent**
 
 ## 🔧 **Getting Started**
 
